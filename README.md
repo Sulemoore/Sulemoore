@@ -1,5 +1,5 @@
 Hi I am Mo!
-I am currently working on AWS Security Specialty Certification.<br>I am looking to learn Azure Cloud Architecture
+I love the Cloud!!!
 
 
 ## 🌐 Socials:
